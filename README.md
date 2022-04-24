@@ -1,2 +1,2 @@
-# rest_framweork
+# rest_framework
 Django rest_framework; serialization, views. 
